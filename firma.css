@@ -2,6 +2,7 @@
   width: 250px;
   height: 175px;
   margin: auto;
+  background: #0c0c0c;
   border: 12px solid #0c0c0c;
   outline: 1px solid #523a66;
 }
